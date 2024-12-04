@@ -1,0 +1,58 @@
+{
+    "Cabecera": [
+        {
+            "OrgVent": "PE01",
+            "Canal": "A1",
+            "OpeCome": "ZV06",
+            "Centro": "1000",
+            "Moneda": "PEN5",
+            "Fecha": "23.10.2024",
+            "ZTerm": "CR15",
+            "Solic": "",
+            "Slsgroup": "",
+            "Glosa": "SUM-2103535\nEl importe FOSE (Ley 27510) asociado al comprobante es de S/ 5.25",
+            "Taxtype": "PE1",
+            "Taxnum": "20602385044",
+            "Nombre": "NARUTO LA MOLINA S.A.C.",
+            "Direcc": "Av. Constructores Nro. 186",
+            "Depart": "15",
+            "Provin": "1501",
+            "Distrit": "150114",
+            "Email": "achumpitazp@canvia.com",
+            "Telefono": "",
+            "Total": "145.79",
+            "Saldo": "0.00",
+            "Cuotx": 0,
+            "OfiVent": "A521",
+            "Sumin": "2103535",
+            "Origen": "SAPX0000002",
+            "NoExped": "0"
+        }
+    ],
+    "Detalle": [
+        {
+            "IdentPosicion": "1",
+            "Material": "",
+            "Cargo": "001",
+            "Tarifa": "A01",
+            "Zona": "1",
+            "Tpkun": "",
+            "Kwmen": "1.00",
+            "Gpoven": ""
+        }
+    ],
+    "Precio": [
+        {
+            "IdentPosicion": "1",
+            "ClaveCondicion": "ZPR1",
+            "Kwert": "118.304200",
+            "Extra": ""
+        },
+        {
+            "IdentPosicion": "1",
+            "ClaveCondicion": "ZFOS",
+            "Kwert": "5.250000",
+            "Extra": ""
+        }
+    ]
+}
